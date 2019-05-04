@@ -1,4 +1,4 @@
-# Random-String-32-Characters-Generator-with-JavaScript
+# Random String 32 Characters Generator with JavaScript
 
 Script yang digunakan untuk mengurutkan huruf meng-generate karakter sebanyak 32 karakter menggunakan bahasa pemrograman JavaScript
 
